@@ -2,7 +2,7 @@
 title: GitHub Pages
 has_children: true
 parent: learning-notes
-nav_order: 110
+nav_order: 11
 ---
 
 # GitHub Pages

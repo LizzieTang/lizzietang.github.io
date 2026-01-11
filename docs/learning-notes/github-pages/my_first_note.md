@@ -1,8 +1,3 @@
----
-title: Github Pages Intro
-nav_order: 1
----
-
 # Github Pages Intro
 
 ## First Github Page in 2 mins

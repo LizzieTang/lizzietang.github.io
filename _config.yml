@@ -1,0 +1,30 @@
+# basic site config
+title: My Learning Site
+description: Records of my learning path
+baseurl: ""
+url: "https://lizzietang.github.io"
+
+# theme config
+theme: just-the-docs
+search_enabled: true
+heading_anchors: true
+
+# navigation config
+aux_links:
+  "My GitHub":
+    - "https://github.com/LizzieTang"
+aux_links_new_tab: true
+
+# footer congig
+footer_content: '© 2026 My Learning Site'
+
+# github edit config
+gh_edit_link: true
+gh_edit_repository: "https://github.com/LizzieTang/lizzietang.github.io"
+gh_edit_branch: "main"
+gh_edit_view_mode: "tree"
+
+# 插件
+plugins:
+  - jekyll-seo-tag
+  - jekyll-github-metadata

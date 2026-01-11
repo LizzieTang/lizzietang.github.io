@@ -1,6 +1,5 @@
 ---
 title: GitHub Pages
-has_children: true
 parent: learning-notes
 nav_order: 11
 ---
@@ -10,7 +9,7 @@ nav_order: 11
 Notes related to GitHub Pages.
 
 ## Notes
-- [GitHub Pages in 2 mins](my_first_note)
+- [GitHub Pages in 2 mins](_github-pages/my_first_note)
 
 ---
 *Updating...*

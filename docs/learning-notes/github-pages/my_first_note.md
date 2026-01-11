@@ -1,6 +1,5 @@
 ---
 title: Github Pages Intro
-parent: github-pages
 nav_order: 1
 ---
 

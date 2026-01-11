@@ -7,8 +7,7 @@ nav_order: 2
 
 Here are my learning notes.
 
-## Category
-- [GitHub Pages](github-pages/my_first_note)
+
 
 ---
 *Updating...*

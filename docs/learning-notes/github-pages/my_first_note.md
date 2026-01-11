@@ -1,7 +1,7 @@
 ---
 title: Github Pages Intro
-parent: notes
-nav_order: 11
+parent: github-pages
+nav_order: 111
 ---
 
 # Github Pages Intro

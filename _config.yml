@@ -9,6 +9,18 @@ remote_theme: just-the-docs/just-the-docs
 search_enabled: true
 heading_anchors: true
 
+defaults:
+  - scope:
+      path: "docs" # an empty string here means all files in the project
+      type: "pages"
+    values:
+      layout: "default"
+
+nav_enabled: true
+
+# Show navigation error report
+nav_error_report: true # default is false/nil.
+
 # navigation config
 aux_links:
   "My GitHub":

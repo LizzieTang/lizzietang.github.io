@@ -1,7 +1,6 @@
 ---
 title: Learning Notes
 has_children: true
-parent: docs
 nav_order: 10
 ---
 

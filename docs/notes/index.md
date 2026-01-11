@@ -1,5 +1,5 @@
 ---
-title: notes
+title: Learning Notes
 has_children: true
 nav_order: 10
 ---

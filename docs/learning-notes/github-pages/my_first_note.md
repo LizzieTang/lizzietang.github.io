@@ -1,5 +1,7 @@
 ---
-nav_exclude: true
+title: Github Pages Intro
+parent: GitHub Pages
+nav_order: 2
 ---
 
 # Github Pages Intro

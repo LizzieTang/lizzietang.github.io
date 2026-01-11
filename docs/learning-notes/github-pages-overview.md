@@ -9,7 +9,7 @@ nav_order: 11
 Notes related to GitHub Pages.
 
 ## Notes
-- [GitHub Pages in 2 mins](_github-pages/my_first_note)
+- [GitHub Pages in 2 mins](github-pages/my_first_note)
 
 ---
 *Updating...*

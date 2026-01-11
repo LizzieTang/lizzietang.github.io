@@ -1,3 +1,7 @@
+---
+nav_exclude: true
+---
+
 # Github Pages Intro
 
 ## First Github Page in 2 mins

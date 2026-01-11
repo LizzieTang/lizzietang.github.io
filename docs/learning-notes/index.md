@@ -1,7 +1,6 @@
 ---
 title: Learning Notes
-has_children: true
-nav_order: 10
+nav_order: 2
 ---
 
 # Learning Notes
